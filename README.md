@@ -1,4 +1,7 @@
 # Hackthon
+
+-- Changes : 08/16/2020 - Made a local copy using clone
+
 UVA MS-DS Hackthon files
 
 
